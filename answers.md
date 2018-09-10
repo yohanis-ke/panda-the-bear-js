@@ -26,7 +26,7 @@
 
 14. var parent = document.querySelector('aside'); var bio = document.querySelector('.bio-info'); parent.removeChild(bio);
 
-===============================================PART 2=======================================
+======================PART 2==============================
 Removing Elements from the DOM
 ------------------------------
 1. var time = document.querySelector('#time-travel'); time.parentElement.parentElement.removeChild(time.parentElement);
